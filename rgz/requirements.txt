@@ -1,0 +1,11 @@
+﻿torch
+torchvision
+numpy
+opencv-python
+Pillow
+scikit-learn
+scipy
+imutils
+facenet-pytorch
+PyQt5
+PyQt5-sip
